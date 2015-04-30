@@ -1,12 +1,12 @@
 var retina = window.devicePixelRatio > 1;
 
-var distance = 500;
+var distance = 300;
 var rotate = 400;
 var speed = 1;
 
-if (retina) {
-    distance = 300;
-    rotate = 100;
+if (retina && window.innerWidth <= 980 ) {
+    distance = 250;
+    rotate = 300;
     speed = 3;
 }
 

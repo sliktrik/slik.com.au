@@ -242,6 +242,9 @@ canvas {
         font-size: 22px;
         font-weight: normal;
     }
+    .logo {
+        width: 25%;
+    }
 }
 /* ----------- iPhone 6 ----------- */
 /* Portrait and Landscape */
@@ -251,5 +254,8 @@ canvas {
     .contact a {
         font-size: 22px;
         font-weight: normal;
+    }
+    .logo {
+        width: 25%;
     }
 }

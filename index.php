@@ -54,6 +54,7 @@
         <a href="tel:0422313908">0422 313 908</a>
     </div>
     <canvas id="canvas"width="400" height="400"></canvas>
+    <div class="coming">website coming soon</div>
     <div id="particles-js"></div>
     <script src="js/lib/particles.min.js"></script>
     <script src="js/app.js"></script>

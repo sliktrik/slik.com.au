@@ -233,6 +233,19 @@ canvas {
     width: 400px;
     height: 400px;
 }
+
+.coming{
+    position: absolute;
+    z-index: 100;
+    left: 50%;
+    top: 50%;
+    margin-left: -105px;
+    margin-top: 230px;
+    color: white;
+    letter-spacing: 4px;
+    text-transform: uppercase;
+    font-size: 12px;
+}
 /* ----------- iPhone 5 and 5S ----------- */
 /* Portrait and Landscape */
 

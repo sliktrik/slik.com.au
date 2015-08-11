@@ -48,8 +48,8 @@
     </div>
 
     <div class="contact">
-        <span>Suite 5, office 18, 20a Danks st</span>
-        <span>Waterloo, NSW, 2017</span>
+        <span>404, 8 Hill st</span>
+        <span>Surry Hills, NSW, 2010</span>
         <a href="mailto:hello@slik.com.au">hello@slik.com.au</a>
         <a href="tel:0422313908">0422 313 908</a>
     </div>
